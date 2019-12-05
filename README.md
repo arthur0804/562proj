@@ -1,7 +1,9 @@
 # Predict book tones using its reviews
 
 ## Introduction
-This is the group project for class COMP 562 Fall 2019 at UNC. In this project, we help Novelist, which is a publisher founded by UNC alumni to solve a problem in their work. In brief, they define "tones" for each book to help readers find the most appealing books. However, their current workflow is to have human assessors to read the book and manually assign the label, which is quite time consuming. Therefore, they turn to us to see whether we could develop some Machine Learning algorithms to automatically tag a book using its metadata.
+This is the group project for class COMP 562 Fall 2019 at UNC. In this project, we help Novelist, which is a publisher founded by UNC alumni to solve a problem in their work. In brief, they define "tones" for each book to help readers find the most appealing books. https://www.ebscohost.com/promoMaterials/NoveList-Guide-to-Story-Elements.pdf
+
+However, their current workflow is to have human assessors to read the book and manually assign the label, which is quite time consuming. Therefore, they turn to us to see whether we could develop some Machine Learning algorithms to automatically tag a book using its metadata.
 
 For report, please refer to the *report* folder.
 
