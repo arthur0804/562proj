@@ -6,9 +6,7 @@ This is the group project for class COMP 562 Fall 2019 at UNC. In this project, 
 However, their current workflow is to have human assessors to read the book and manually assign the label, which is quite time consuming. Therefore, they turn to us to see whether we could develop some Machine Learning algorithms to automatically tag a book using its metadata.
 
 For report, please refer to the *report* folder.
-
 For scripts, please refer to the *scripts* folder.
-
 For tex source file, please refer to the *tex* folder.
 
 ## Team Members
