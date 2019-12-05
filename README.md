@@ -19,10 +19,10 @@ For tex source file, please refer to the *tex* folder.
 |Wan Zhang|730341932|wanz63 AT live DOT unc DOT edu|
 
 ## Dataset
-As we have an agreement with Novelist for data privacy, we do not upload the dataset to a public reporsitory. For anyone who is interested in the project or the data, please reach out to the staff at Novelist.
+As we have an agreement with Novelist for data privacy, we do not upload the dataset to a public reporsitory. For anyone who is interested in the project or the data, please reach out to the staff at Novelist. Their contact info could be found at their website: https://www.ebscohost.com/novelist/novelist-contact-us
 
 ## Models
 Unigram model with TF-IDF weighting + Logistic Regression
 
 ## Acknowledgement
-We appreciate Novelist for providing the data and Dr. Yue Wang from the School of Information and Library Science for surpervising the whole project.
+We appreciate Novelist for providing the data and Dr. Yue Wang from the School of Information and Library Science for surpervising and giving suggestions.
